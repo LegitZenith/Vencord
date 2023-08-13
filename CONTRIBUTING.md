@@ -2,9 +2,11 @@
 
 First of all, thank you for contributing! :3
 
-To ensure your contribution is robust, please follow the below guide!
+To ensure your contribution is robust, please follow the guide below!
 
 For a friendly introduction to plugins, see [Megu's Plugin Guide!](docs/2_PLUGINS.md)
+
+*(README edits or similar are allowed if they're warranted, don't edit the entire README.)*
 
 ## Style Guide
 
