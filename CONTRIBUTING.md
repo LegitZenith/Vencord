@@ -6,6 +6,8 @@ To ensure your contribution is robust, please follow the below guide!
 
 For a friendly introduction to plugins, see [Megu's Plugin Guide!](docs/2_PLUGINS.md)
 
+*(README edits or similar are allowed if they're warranted, don't edit the entire README.)*
+
 ## Style Guide
 
 -   This project has a very minimal .editorconfig. Make sure your editor supports this!
